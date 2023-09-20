@@ -117,4 +117,4 @@ dmypy.json
 **.p
 
 # local directories
-data/
+# data/
