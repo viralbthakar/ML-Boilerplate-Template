@@ -1,0 +1,18 @@
+# General data processing   
+jupyter
+numpy
+pandas
+
+# Machine learning frameworks
+scipy
+scikit-learn
+tensorflow
+tensorflow-probability
+
+# for visualization
+seaborn
+matplotlib
+
+# for testig
+pytest
+pytest-cov
